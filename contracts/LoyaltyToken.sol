@@ -27,6 +27,7 @@ contract LoyaltyToken is ERC20, Ownable {
 
     // Add loyalty points to a user's balance
     function addLoyaltyPoints(address user, uint256 points) public onlyOwner {
+        transfer( user, points);
         loyaltyPoints[user] += points;
     }
 

@@ -6,7 +6,8 @@ The `LoyaltyToken` is an Ethereum smart contract that extends the ERC20 standard
 ## Problem Statement
 
 **Problem:**
-ABSA Bank Ghana is grappling with the urgent need to expand its digital customer base. The challenges stem from customer demand for digital services, competition from fintech, customer attrition, income pressures, educational gaps in blockchain technology, and evolving regulations. A strategic approach is essential to leverage blockchain for acquisition, retention, and income generation in the digital banking landscape.
+ABSA Bank Ghana urgently needs to expand its digital customer base and is unable to because of customer demand for more digital services, competition from fintechs, customer attrition, income pressures, educational gaps in blockchain technology, and unreliable evolving regulations. 
+
 
 ## Key Features
 
