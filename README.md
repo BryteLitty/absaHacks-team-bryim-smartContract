@@ -1,6 +1,4 @@
-Certainly, here's the README with Markdown formatting:
 
-```markdown
 # LoyaltyToken Smart Contract
 
 The `LoyaltyToken` is an Ethereum smart contract that extends the ERC20 standard, allowing the creation and management of a loyalty token system. It is designed to facilitate rewards and loyalty point systems for users within the Ethereum network.
@@ -48,6 +46,3 @@ The contract is designed with an ownership structure. ABSA Bank Ghana, as the co
 
 You can deploy the `LoyaltyToken` contract on the Ethereum network to implement and manage your loyalty token system. Ensure that you have the necessary configurations, including network settings and test Ether, to deploy the contract successfully.
 
-```
-
-This Markdown code provides a formatted README with sections for the problem statement and key features of the `LoyaltyToken` smart contract. You can copy and paste it into your documentation or Markdown editor.
